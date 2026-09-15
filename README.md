@@ -149,9 +149,7 @@ sukisu=
 - 使编译产物中的 `/proc/config.gz` 更贴近你的官方内核配置
 ---
 
-## 🛠️ 安装后推荐
-
-### 📦 模块推荐
+### Recommend Modules After Kernel installed
 
 <table>
 <tr>
@@ -160,38 +158,27 @@ sukisu=
 <th>频道</th>
 </tr>
 <tr>
-<td><b>LSPosed-Irena</b></td>
-<td><a href="https://github.com/re-zero001/LSPosed-Irena">GitHub</a></td>
-<td><a href="https://t.me/lsposed_irena">Telegram</a></td>
+<td><b>Vector</b></td>
+<td><a href="https://github.com/JingMatrix/Vector">GitHub</a></td>
 </tr>
 <tr>
-<td><b>Zygisk Next</b></td>
-<td><a href="https://github.com/Dr-TSNG/ZygiskNext">GitHub</a></td>
-<td rowspan="2"><a href="https://t.me/real5ec1cff">Telegram</a></td>
+<td><b>Nya Zygisk</b></td>
+<td><a href="https://github.com/HSSkyBoy/NyaZygisk">GitHub</a></td>
 </tr>
 <tr>
-<td><b>TrickyStore</b></td>
-<td><a href="https://github.com/5ec1cff/TrickyStore">GitHub</a></td>
+<td><b>TEESimulator</b></td>
+<td><a href="https://github.com/JingMatrix/TEESimulator">GitHub</a></td>
 </tr>
 </table>
 
-### 🔧 Xposed 模块
+###  Fuse Hide
 
-| 模块 | 说明 |
-|:---:|:---|
-| **FuseFixer** | [Unicode零宽修复模块](https://t.me/real5ec1cff/268) |
-
-### App
-
-| 名称 | 说明 |
-|:---:|:---|
-| **Scene** | [官网](https://omarea.com/#/) |
+| **FuseHide** | [FuseHide](https://github.com/XiaoTong6666/FuseHide) |
 ---
 
+### Please use open source modules ！！！
+#  Use open-source modules instead of closed-source ones. Advocate for freedom and openness.
+
 <div align="center">
-
-**更多内容持续更新中...**
-
-⭐ 如果这个项目对你有帮助，请点个 Star 支持一下！
 
 </div>
